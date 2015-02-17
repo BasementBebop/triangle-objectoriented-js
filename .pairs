@@ -1,0 +1,8 @@
+# .pairs - configuration for 'git pair'
+pairs:
+  # <initials>: <Firstname> <Lastname>[; <email-id>]
+  js: Joey Sandine
+  sh: Sean Holstrom
+email_addresses:
+  js: jasandine@gmail.com
+  sh: basementbebop@gmail.com
